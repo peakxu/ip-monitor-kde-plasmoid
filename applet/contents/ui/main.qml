@@ -24,6 +24,7 @@ Item {
 
             PlasmaComponents.Label {
                 text: model["Name"]+": "+model["Address"]
+                font.pointSize: 72
             }
         }
     }
