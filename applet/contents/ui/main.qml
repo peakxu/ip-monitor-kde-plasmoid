@@ -4,7 +4,7 @@ import org.kde.plasma.components 0.1 as PlasmaComponents
 
 Item {
     id: ipmonitor
-    property int minimumWidth: 150
+    property int minimumWidth: 800
     property int minimumHeight: 100
 
     PlasmaCore.DataSource {

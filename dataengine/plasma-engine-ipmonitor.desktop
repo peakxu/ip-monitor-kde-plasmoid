@@ -2,7 +2,7 @@
 Name=IP Monitor Engine
 Comment=
 Type=Service
- 
+
 X-KDE-ServiceTypes=Plasma/DataEngine
 X-KDE-Library=plasma_engine_ipmonitor
 X-Plasma-EngineName=ipmonitor
