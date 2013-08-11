@@ -1,6 +1,6 @@
 # A name for the project
 project(plasma-ipmonitor)
- 
+
 # Find the required Libaries
 include(KDE4Defaults)
 
